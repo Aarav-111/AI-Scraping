@@ -2,3 +2,8 @@
 2. webbrowser
 3. pynput
 4. pyperclip
+5. json
+6. platform
+7. os
+8. subprocess
+9. urllib
