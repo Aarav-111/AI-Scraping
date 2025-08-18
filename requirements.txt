@@ -1,0 +1,4 @@
+1. time
+2. webbrowser
+3. pynput
+4. pyperclip
