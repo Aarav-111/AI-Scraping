@@ -1,9 +1,10 @@
-1. time
-2. webbrowser
-3. pynput
-4. pyperclip
-5. json
-6. platform
-7. os
-8. subprocess
-9. urllib
+sys
+os
+json
+urllib.parse
+PySide6.QtWidgets
+PySide6.QtWebEngineWidgets
+PySide6.QtWebEngineCore
+PySide6.QtCore
+
+**pip install PySide6**
