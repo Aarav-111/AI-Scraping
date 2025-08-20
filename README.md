@@ -24,3 +24,10 @@ Our versions (s) 5.1 & 5.5 are bug fixes for Version 5
 5.1: 5.1 fixes all bugs in 5, but does not include a continuous chat. You'll have to re-run it to use it again
 
 5.5: 5.5 includes a continuous Chat, so you don't have to re-run the code to use it again
+
+5.3: This Version includes everything in Version 5, but eliminates Prompt History
+
+5.9: Our upcoming Version 5.9 will be able to deal with images also
+
+**Version 6**
+Version 6 will include all the features of Version 5.9, plus integration with models like ChatGPT, Perplexity, and Grok. You'll also be able to choose between fast and reasoning models. The Prolabs-Robotics Library will be updated with added customisation, and you'll have the option to enable or disable prompt history.
